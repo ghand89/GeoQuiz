@@ -15,7 +15,7 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
-//Changes
+//Changes to this file.
 
 public class QuizActivity extends AppCompatActivity {
 
