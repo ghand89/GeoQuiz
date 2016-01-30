@@ -15,6 +15,8 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
+//Changes
+
 public class QuizActivity extends AppCompatActivity {
 
     private static final String TAG = "QuizActivity";
